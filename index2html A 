@@ -6,9 +6,10 @@
         <title>página 2</title>
         </head>
         <body>
-              <head>
+              <header>
                 <h1>Página 2</h1>
-              </hearder>
+<img src="menina.png" alt="">
+              </header>
               <main>
                 
               </main>
